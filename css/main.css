@@ -2787,6 +2787,12 @@ input, select, textarea {
 
 		}
 
+/* Container */
+.container {
+  display: flex;
+  justify-content: center;
+}
+
 /* Contact */
 
 	ul.contact {
