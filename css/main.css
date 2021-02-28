@@ -2614,7 +2614,8 @@ input, select, textarea {
 			}
 
 			.image.profile {
-				display: block;
+				display: inline-block;
+				position: relative;
 				margin: 0 0 3em 0;
 				width: 100%;
 				height: 438px;
@@ -2623,6 +2624,7 @@ input, select, textarea {
 				.image.profile img {
 					width: 100%;
 					height: 438px;
+					display: block;
 				}
 /* List */
 
