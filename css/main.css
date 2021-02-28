@@ -2805,6 +2805,15 @@ input, select, textarea {
 			}
 
 /* Icons */
+ul.footericons {
+	cursor: default;
+	list-style: none;
+	padding-left: 0;
+}
+ul.footericons li {
+	display: inline;
+	padding: 0 0.75em 0 0;
+}
 
 	ul.icons {
 		cursor: default;
