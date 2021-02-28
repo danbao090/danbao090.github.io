@@ -2789,7 +2789,7 @@ input, select, textarea {
 
 /* Container */
 .container {
-    margin/bottom:60px; auto;
+    margin/bottom:60px; center;
     display:block;
 }
 
