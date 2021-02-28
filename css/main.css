@@ -2787,12 +2787,11 @@ input, select, textarea {
 
 		}
 
-/* Container */
-.container {
+/* Button Container */
+#button-container {
     margin-bottom: 3em;
-		auto;
-    display:block;
-}
+    text-align: center;
+  }
 
 /* Contact */
 
