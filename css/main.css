@@ -2613,17 +2613,16 @@ input, select, textarea {
 				width: 100%;
 			}
 
-			.image.profile {
+			.profile {
 				display: inline-block;
 				position: relative;
 				margin: 0 0 3em 0;
-				width: 100%;
-				height: 438px;
+				width: 20%;
+
 			}
 
-				.image.profile img {
-					width: 100%;
-					height: 438px;
+				.profile img {
+					width: 20%;
 					display: block;
 				}
 /* List */
