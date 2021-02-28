@@ -2788,9 +2788,10 @@ input, select, textarea {
 		}
 
 /* Button Container */
-#button-container {
-    margin-bottom: 3em;
-    text-align: center;
+.center {
+    margin: auto;
+		width: 30%;
+		padding: 3em;
   }
 
 /* Contact */
