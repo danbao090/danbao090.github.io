@@ -2616,11 +2616,11 @@ input, select, textarea {
 			.image.profile {
 				display: block;
 				margin: 0 0 3em 0;
-				width: auto;
+				width: 438px;
 			}
 
 				.image.profile img {
-					width: auto;
+					width: 438px;
 				}
 /* List */
 
