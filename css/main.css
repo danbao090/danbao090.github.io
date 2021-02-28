@@ -2789,8 +2789,8 @@ input, select, textarea {
 
 /* Container */
 .container {
-  display: flex;
-  justify-content: center;
+    margin/bottom:60px; auto;
+    display:block;
 }
 
 /* Contact */
