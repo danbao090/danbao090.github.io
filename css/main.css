@@ -2790,8 +2790,7 @@ input, select, textarea {
 /* Container */
 .container {
     margin-bottom: 3em;
-		margin-left: 40em;
-		margin-right: 40em;
+		width: 75em;
 		auto;
     display:block;
 }
