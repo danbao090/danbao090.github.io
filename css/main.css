@@ -2788,7 +2788,7 @@ input, select, textarea {
 		}
 
 /* Button Container */
-.center {
+#center {
     margin: auto;
 		width: 30%;
 		padding: 3em;
